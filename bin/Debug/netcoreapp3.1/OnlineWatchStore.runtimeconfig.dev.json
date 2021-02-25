@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pmeet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pmeet\\.nuget\\packages"
+    ]
+  }
+}
